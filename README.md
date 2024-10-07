@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xfhreall&label=Profile%20views&color=0e75b6&style=flat" alt="xfhreall" /> </p>
 
-- 🔭 I’m currently working on **POROS WEB HOUSE, Braciate Website**
-
-- 🌱 I’m currently learning **Next js, Vite**
+- 🌱 I’m currently learning **Next js, Vite, and other tools**
 
 - 👨‍💻 All of my projects are available at [...](...)
 
