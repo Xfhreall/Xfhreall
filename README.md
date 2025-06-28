@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Portofolio](https://xfhreall.vercel.app/)
 
-- 💬 Ask me about **react, next js**
+- 💬 Ask me about **web and mobile development**
 
 - 📫 How to reach me **farelrizqi377@gmail.com**
 
