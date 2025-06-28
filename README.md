@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Risqi Achmad Fahreal aka Farel</h1>
-<h3 align="center">A passionate frontend web developer from Indonesia, Malang</h3>
+<h3 align="center">A passionate Fullstack developer from Indonesia, Malang</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xfhreall&label=Profile%20views&color=0e75b6&style=flat" alt="xfhreall" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **farelrizqi377@gmail.com**
 
-- 📄 Know about my experiences [..](..)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AOOfAUFsj960NvZLMhmQuPZKFDKBZR1c/view?usp=sharing)
 
 - ⚡ Fun fact **requires at least one cup of coffee for coding**
 
