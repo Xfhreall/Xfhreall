@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xfhreall&label=Profile%20views&color=0e75b6&style=flat" alt="xfhreall" /> </p>
 
-- 🌱 I’m currently learning **Next js, Nest js, Vite,  and other tools**
+- 🌱 I’m currently learning **Next js, Astro, and other tools**
 
 - 💻 MERN tech concern
 
-- 👨‍💻 All of my projects are available at [Portofolio](https://xfhreall.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portofolio](https://xfhreall.tech/)
 
 - 💬 Ask me about **web and mobile development**
 
